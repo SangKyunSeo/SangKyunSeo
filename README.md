@@ -19,6 +19,15 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=SangKyunSeo%20&fontSize=90" />
 </div>
 <br>
+
+<div align="center">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSangKyunSeo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+
+<br>
+
 <div align="center">
   <h1>
     🔨 Tech Stack 🔨
@@ -28,6 +37,8 @@ Here are some ideas to get you started:
 <a target="_blank"><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=plastic&logo=Android Studio&logoColor=000080"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=Firebase&logoColor=aa0000"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=plastic&logo=Eclipse IDE&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=plastic&logo=IntelliJ IDEA&logoColor=white"/></a>
 </div>
 <br>
 <br>
