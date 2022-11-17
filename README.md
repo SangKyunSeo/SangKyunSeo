@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a target="_blank"><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=000080"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=plastic&logo=Android Studio&logoColor=000080"/></a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SangKyunSeo&show_icons=true&theme=tokyonight)
