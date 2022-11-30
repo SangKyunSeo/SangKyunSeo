@@ -43,7 +43,22 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-
+  
+<div align="center">
+  <h1>
+    🔥 Studing 🔥
+</div>
+<br>
+<div align="center">
+<a target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=000080"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/MySql-4479A1?style=plastic&logo=MySql&logoColor=000080"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=000080"/></a>
+</div>
+ 
+<br>
+<br>  
+<br>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SangKyunSeo&show_icons=true&theme=cobalt)
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qaz0802)](https://solved.ac/qaz0802/)
