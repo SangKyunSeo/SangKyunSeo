@@ -52,7 +52,6 @@ Here are some ideas to get you started:
 <div align="center">
 <a target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=000080"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/MySql-4479A1?style=plastic&logo=MySql&logoColor=000080"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=000080"/></a>
 </div>
  
 <br>
